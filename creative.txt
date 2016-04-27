@@ -1,0 +1,13 @@
+Name: Yu Tong
+ID: 444098
+
+
+Link to instance: http://ec2-54-68-11-143.us-west-2.compute.amazonaws.com/~moudixtc/Mod8-Main.html
+
+Description: 
+1. We have more regulations on the user register, for example, the username must be more than 6 letters and password should be more than 8, this regulation could help user to have more secure Account.
+2. When people register for the duc system,as the password is long, we ask the user to repeat twice the password to make sure he/she dosen't type the wrong one at first.
+3. We add a welcome page with a side of several pictures of food. Thus the website will be more attractive for users.
+4. For those people who are concerns with their health, we also add the nutrition fact in the menu.
+
+
